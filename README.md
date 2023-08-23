@@ -5,4 +5,4 @@
 A program that randomly generates 20-characters password.
 
 ## How does it work?
-Everytime you run the program, it generates a diffrent password.
+Every time you run the program, it generates a different password.
